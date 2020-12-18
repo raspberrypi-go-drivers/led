@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bbayszczak/raspberrypi-go-drivers/led"
+	"github.com/raspberrypi-go-drivers/led"
 	"github.com/stianeikeland/go-rpio/v4"
 )
 
