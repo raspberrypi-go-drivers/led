@@ -1,6 +1,6 @@
 # LED
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/led)](https://pkg.go.dev/github.com/bbayszczak/raspberrypi-go-drivers/led)
+[![Go Reference](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/led.svg)](https://pkg.go.dev/github.com/raspberrypi-go-drivers/led)
 ![golangci-lint](https://github.com/raspberrypi-go-drivers/led/workflows/golangci-lint/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/raspberrypi-go-drivers/led)](https://goreportcard.com/report/github.com/raspberrypi-go-drivers/led)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@ This drivers allows interact with a LED connected to a GPIO pin
 
 ## Documentation
 
-For full documentation, please visit [![PkgGoDev](https://pkg.go.dev/badge/github.com/bbayszczak/raspberrypi-go-drivers/led)](https://pkg.go.dev/github.com/bbayszczak/raspberrypi-go-drivers/led)
+For full documentation, please visit [![Go Reference](https://pkg.go.dev/badge/github.com/raspberrypi-go-drivers/led.svg)](https://pkg.go.dev/github.com/raspberrypi-go-drivers/led)
 
 ## Quick start
 
