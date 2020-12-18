@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bbayszczak/raspberrypi-go-drivers/led"
+	"github.com/raspberrypi-go-drivers/led"
 	log "github.com/sirupsen/logrus"
 	"github.com/stianeikeland/go-rpio/v4"
 )
